@@ -1,0 +1,10 @@
+C:\Users\sorhan\Downloads\WindowsServicesController\WindowsServicesController\bin\Debug\WindowsServicesController.exe.config
+C:\Users\sorhan\Downloads\WindowsServicesController\WindowsServicesController\bin\Debug\WindowsServicesController.exe
+C:\Users\sorhan\Downloads\WindowsServicesController\WindowsServicesController\bin\Debug\WindowsServicesController.pdb
+C:\Users\sorhan\Downloads\WindowsServicesController\WindowsServicesController\obj\Debug\WindowsServicesController.csprojResolveAssemblyReference.cache
+C:\Users\sorhan\Downloads\WindowsServicesController\WindowsServicesController\obj\Debug\WindowsServicesController.Form1.resources
+C:\Users\sorhan\Downloads\WindowsServicesController\WindowsServicesController\obj\Debug\WindowsServicesController.Properties.Resources.resources
+C:\Users\sorhan\Downloads\WindowsServicesController\WindowsServicesController\obj\Debug\WindowsServicesController.UserControlService.resources
+C:\Users\sorhan\Downloads\WindowsServicesController\WindowsServicesController\obj\Debug\WindowsServicesController.csproj.GenerateResource.Cache
+C:\Users\sorhan\Downloads\WindowsServicesController\WindowsServicesController\obj\Debug\WindowsServicesController.exe
+C:\Users\sorhan\Downloads\WindowsServicesController\WindowsServicesController\obj\Debug\WindowsServicesController.pdb
